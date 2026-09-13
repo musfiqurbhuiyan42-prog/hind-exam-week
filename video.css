@@ -1,0 +1,21 @@
+.room-video {
+  position: absolute;
+  inset: -3%;
+  width: 106%;
+  height: 106%;
+  object-fit: cover;
+  opacity: .72;
+  filter: saturate(.8) contrast(1.05) brightness(.72);
+  animation: videoEnter 1.4s ease-out both;
+}
+
+.room-video.scene-storm,
+.room-video.scene-window { filter: saturate(.65) contrast(1.12) brightness(.58); }
+.room-video.scene-sunrise,
+.room-video.scene-dawn,
+.room-video.scene-warmth { filter: saturate(.95) contrast(1.03) brightness(.78); }
+
+@keyframes videoEnter {
+  from { opacity: 0; transform: scale(1.08); }
+  to { opacity: .72; transform: scale(1); }
+}
