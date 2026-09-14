@@ -1,0 +1,543 @@
+{
+  "mirror": {
+    "title": "The Mirror Room",
+    "choice": "When I doubt myself",
+    "promise": "See the capable woman I see.",
+    "sections": [
+      {
+        "title": "Look at yourself with belief",
+        "visual": "mirror",
+        "text": "Hind, my love, come a little closer. This room is here to remind you of the capable woman looking back at you. You have a mind that can learn, ask questions, make connections, and discover a way forward. Give that mind your trust today. You can understand the difficult things, one clear step at a time."
+      },
+      {
+        "title": "Give yourself credit",
+        "visual": "books",
+        "text": "Think of something that once confused you and now makes sense. Remember the moment it clicked. That ability belongs to you. When a new topic feels unfamiliar, you can bring the same curiosity to it. Read the question carefully. Find the part you recognise. Start there, and let one useful thought lead you to the next."
+      },
+      {
+        "title": "Your next answer begins here",
+        "visual": "study",
+        "text": "You can practise the skills you need. You can ask for an explanation. You can try another example until the idea becomes clearer. Every time you do that, you give yourself another reason to believe. And yes, beautiful, I am absolutely cheering for the clever girl with the pen. Consider this your very personal cheering section."
+      },
+      {
+        "title": "I am capable",
+        "visual": "mirror",
+        "text": "Now imagine opening your exam paper. Your shoulders settle. You read with care, notice what you know, and begin. A difficult question is something you can work through. Take this belief with you to your desk, into tomorrow, and into every new thing you learn. Say it in your own voice, my love. I am capable. I can figure this out. I can do this."
+      }
+    ],
+    "duration": 118,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 3.3316618619798537,
+        "text": "Hind, my love, come a little closer."
+      },
+      {
+        "start": 3.503228559139189,
+        "end": 9.86753603947834,
+        "text": "This room is here to remind you of the capable woman looking back at you."
+      },
+      {
+        "start": 10.039102736637677,
+        "end": 17.69669631984934,
+        "text": "You have a mind that can learn, ask questions, make connections, and discover a way forward."
+      },
+      {
+        "start": 17.868263017008676,
+        "end": 21.13533205996872,
+        "text": "Give that mind your trust today."
+      },
+      {
+        "start": 21.306898757128053,
+        "end": 26.782327349327414,
+        "text": "You can understand the difficult things, one clear step at a time."
+      },
+      {
+        "start": 26.95389404648675,
+        "end": 32.051007859146374,
+        "text": "Think of something that once confused you and now makes sense."
+      },
+      {
+        "start": 32.22257455630571,
+        "end": 34.97907949066569,
+        "text": "Remember the moment it clicked."
+      },
+      {
+        "start": 35.15064618782503,
+        "end": 38.29930357283492,
+        "text": "That ability belongs to you."
+      },
+      {
+        "start": 38.47087026999426,
+        "end": 44.90130241486357,
+        "text": "When a new topic feels unfamiliar, you can bring the same curiosity to it."
+      },
+      {
+        "start": 45.0728691120229,
+        "end": 47.90780453651288,
+        "text": "Read the question carefully."
+      },
+      {
+        "start": 48.079371233672205,
+        "end": 51.00657481940234,
+        "text": "Find the part you recognise."
+      },
+      {
+        "start": 51.17814151656167,
+        "end": 55.81861218258559,
+        "text": "Start there, and let one useful thought lead you to the next."
+      },
+      {
+        "start": 55.990178879744924,
+        "end": 58.98360925303923,
+        "text": "You can practise the skills you need."
+      },
+      {
+        "start": 59.15517595019857,
+        "end": 62.12082885823851,
+        "text": "You can ask for an explanation."
+      },
+      {
+        "start": 62.292395555397846,
+        "end": 67.88623580554736,
+        "text": "You can try another example until the idea becomes clearer."
+      },
+      {
+        "start": 68.05780250270669,
+        "end": 73.58551808832604,
+        "text": "Every time you do that, you give yourself another reason to believe."
+      },
+      {
+        "start": 73.75708478548538,
+        "end": 80.09524876911452,
+        "text": "And yes, beautiful, I am absolutely cheering for the clever girl with the pen."
+      },
+      {
+        "start": 80.26681546627385,
+        "end": 84.76104594757625,
+        "text": "Consider this your very personal cheering section."
+      },
+      {
+        "start": 84.93261264473558,
+        "end": 89.17929689156523,
+        "text": "Now imagine opening your exam paper."
+      },
+      {
+        "start": 89.35086358872456,
+        "end": 91.3630447896049,
+        "text": "Your shoulders settle."
+      },
+      {
+        "start": 91.53461148676425,
+        "end": 95.88423575188949,
+        "text": "You read with care, notice what you know, and begin."
+      },
+      {
+        "start": 96.05580244904883,
+        "end": 100.30412066442284,
+        "text": "A difficult question is something you can work through."
+      },
+      {
+        "start": 100.47568736158217,
+        "end": 107.65044323993114,
+        "text": "Take this belief with you to your desk, into tomorrow, and into every new thing you learn."
+      },
+      {
+        "start": 107.82200993709047,
+        "end": 111.28602325116468,
+        "text": "Say it in your own voice, my love."
+      },
+      {
+        "start": 111.45758994832401,
+        "end": 113.43142394992854,
+        "text": "I am capable."
+      },
+      {
+        "start": 113.60299064708788,
+        "end": 115.89054660921236,
+        "text": "I can figure this out."
+      },
+      {
+        "start": 116.0621133063717,
+        "end": 117.82843330284066,
+        "text": "I can do this."
+      }
+    ],
+    "timeline": [
+      {
+        "title": "Look at yourself with belief",
+        "visual": "mirror",
+        "start": 0.0
+      },
+      {
+        "title": "Give yourself credit",
+        "visual": "books",
+        "start": 26.95389404648675
+      },
+      {
+        "title": "Your next answer begins here",
+        "visual": "study",
+        "start": 55.990178879744924
+      },
+      {
+        "title": "I am capable",
+        "visual": "mirror",
+        "start": 84.93261264473558
+      }
+    ]
+  },
+  "rain": {
+    "title": "The Rainy Window",
+    "choice": "When it feels like too much",
+    "promise": "Find your focus, one step at a time.",
+    "sections": [
+      {
+        "title": "Come in, my love",
+        "visual": "rain",
+        "text": "Hind, my love, come sit beside this window for a moment. Let the rain move outside while you gather your thoughts inside. You can bring your attention back to one thing. Take an easy breath, let your shoulders settle, and look at the page in front of you. You have a place to begin, right here."
+      },
+      {
+        "title": "Choose one small beginning",
+        "visual": "books",
+        "text": "Choose one topic you want to understand a little better. Pick a single example, read it carefully, and write down the first thing you know. Then try the next step. You are allowed to work at the pace that helps you think clearly. A whole chapter becomes more approachable when you give yourself one useful task at a time."
+      },
+      {
+        "title": "Let your confidence grow",
+        "visual": "study",
+        "text": "If you get stuck, change the approach. Find a worked example, ask someone to explain, or return after a short break. You have choices, and you can use them. Notice each piece that becomes clearer. Let yourself feel that little moment of progress. That is you learning, my love. That is your effort turning into something you can use."
+      },
+      {
+        "title": "You can take the next step",
+        "visual": "rain",
+        "text": "And before you ask, yes, I would absolutely bring you tea and then distract you by telling you how beautiful you are. I would try to behave. Mostly. For now, carry my encouragement back to your next question. May Allah grant you clear understanding, steady focus, and success in your studies. You can begin. You can learn. You can keep finding your way. I can figure this out. I can do this."
+      }
+    ],
+    "duration": 118,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 4.857016433591619,
+        "text": "Hind, my love, come sit beside this window for a moment."
+      },
+      {
+        "start": 5.027012008767326,
+        "end": 10.089642138047656,
+        "text": "Let the rain move outside while you gather your thoughts inside."
+      },
+      {
+        "start": 10.259637713223364,
+        "end": 14.194630527171507,
+        "text": "You can bring your attention back to one thing."
+      },
+      {
+        "start": 14.364626102347215,
+        "end": 20.592940175689534,
+        "text": "Take an easy breath, let your shoulders settle, and look at the page in front of you."
+      },
+      {
+        "start": 20.76293575086524,
+        "end": 24.10370296051616,
+        "text": "You have a place to begin, right here."
+      },
+      {
+        "start": 24.273698535691867,
+        "end": 28.961478302925528,
+        "text": "Choose one topic you want to understand a little better."
+      },
+      {
+        "start": 29.131473878101236,
+        "end": 35.28369469398395,
+        "text": "Pick a single example, read it carefully, and write down the first thing you know."
+      },
+      {
+        "start": 35.45369026915966,
+        "end": 37.74458302033704,
+        "text": "Then try the next step."
+      },
+      {
+        "start": 37.914578595512744,
+        "end": 42.55055018745476,
+        "text": "You are allowed to work at the pace that helps you think clearly."
+      },
+      {
+        "start": 42.720545762630465,
+        "end": 50.580817357659576,
+        "text": "A whole chapter becomes more approachable when you give yourself one useful task at a time."
+      },
+      {
+        "start": 50.75081293283528,
+        "end": 54.051965102199716,
+        "text": "If you get stuck, change the approach."
+      },
+      {
+        "start": 54.22196067737542,
+        "end": 61.021783684403694,
+        "text": "Find a worked example, ask someone to explain, or return after a short break."
+      },
+      {
+        "start": 61.1917792595794,
+        "end": 64.57226269735916,
+        "text": "You have choices, and you can use them."
+      },
+      {
+        "start": 64.74225827253487,
+        "end": 68.56149219481574,
+        "text": "Notice each piece that becomes clearer."
+      },
+      {
+        "start": 68.73148776999146,
+        "end": 73.07042245066663,
+        "text": "Let yourself feel that little moment of progress."
+      },
+      {
+        "start": 73.24041802584235,
+        "end": 76.21852800845174,
+        "text": "That is you learning, my love."
+      },
+      {
+        "start": 76.38852358362746,
+        "end": 80.94678291263202,
+        "text": "That is your effort turning into something you can use."
+      },
+      {
+        "start": 81.11677848780772,
+        "end": 90.40177490335702,
+        "text": "And before you ask, yes, I would absolutely bring you tea and then distract you by telling you how beautiful you are."
+      },
+      {
+        "start": 90.57177047853273,
+        "end": 92.7865699722505,
+        "text": "I would try to behave."
+      },
+      {
+        "start": 92.95656554742621,
+        "end": 94.43223844657795,
+        "text": "Mostly."
+      },
+      {
+        "start": 94.60223402175366,
+        "end": 99.44225089782772,
+        "text": "For now, carry my encouragement back to your next question."
+      },
+      {
+        "start": 99.61224647300341,
+        "end": 106.9163390924651,
+        "text": "May Allah grant you clear understanding, steady focus, and success in your studies."
+      },
+      {
+        "start": 107.0863346676408,
+        "end": 108.84695253089659,
+        "text": "You can begin."
+      },
+      {
+        "start": 109.01694810607229,
+        "end": 110.61166850176821,
+        "text": "You can learn."
+      },
+      {
+        "start": 110.78166407694391,
+        "end": 113.47326068389259,
+        "text": "You can keep finding your way."
+      },
+      {
+        "start": 113.6432562590683,
+        "end": 115.90986392807773,
+        "text": "I can figure this out."
+      },
+      {
+        "start": 116.07985950325345,
+        "end": 117.83000442482428,
+        "text": "I can do this."
+      }
+    ],
+    "timeline": [
+      {
+        "title": "Come in, my love",
+        "visual": "rain",
+        "start": 0.0
+      },
+      {
+        "title": "Choose one small beginning",
+        "visual": "books",
+        "start": 24.273698535691867
+      },
+      {
+        "title": "Let your confidence grow",
+        "visual": "study",
+        "start": 50.75081293283528
+      },
+      {
+        "title": "You can take the next step",
+        "visual": "rain",
+        "start": 81.11677848780772
+      }
+    ]
+  },
+  "garden": {
+    "title": "The Letter Garden",
+    "choice": "I need you",
+    "promise": "A little love to carry into your day.",
+    "sections": [
+      {
+        "title": "This letter is yours",
+        "visual": "garden",
+        "text": "My beautiful Hind, this little garden has a letter waiting just for you. Imagine me beside you as you open it, smiling before you have even read the first line. I love you. And I love getting to remind you how much possibility there is in you. Your ideas, your dreams, and the things you want to learn deserve your belief."
+      },
+      {
+        "title": "Your favourite cheering section",
+        "visual": "lights",
+        "text": "I wish I could deliver this encouragement in person. I would hand you the letter, bring your favourite drink, and probably spend far too long looking at you. Honestly, this is why I need a plan before becoming your study partner. But I would also remind you to trust yourself, open that book, and give your brilliant mind a chance to work."
+      },
+      {
+        "title": "A prayer for your next chapter",
+        "visual": "garden",
+        "text": "May Allah bless your preparation, grant you beneficial knowledge, help you understand what you study, and bring clarity when you need it. May He open good doors for you and grant you success. Ameen. My love, I am cheering for the future you are working towards. Let this be the voice you carry back into your day."
+      },
+      {
+        "title": "I can do this",
+        "visual": "garden",
+        "text": "Hind, my love, you can do this. Even when something feels difficult, you can learn it, work through it, and find your way forward. Trust your mind. Give yourself credit for what you know. Walk into that exam knowing you have something to bring to every page. I believe in you, beautiful, and I want you to hear your own voice saying it too. I am capable. I can figure this out. I can do this."
+      }
+    ],
+    "duration": 118,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 5.991216226860633,
+        "text": "My beautiful Hind, this little garden has a letter waiting just for you."
+      },
+      {
+        "start": 6.160028169385889,
+        "end": 13.387540666996218,
+        "text": "Imagine me beside you as you open it, smiling before you have even read the first line."
+      },
+      {
+        "start": 13.556352609521474,
+        "end": 15.150369425146115,
+        "text": "I love you."
+      },
+      {
+        "start": 15.319181367671373,
+        "end": 21.32406332321262,
+        "text": "And I love getting to remind you how much possibility there is in you."
+      },
+      {
+        "start": 21.492875265737876,
+        "end": 27.92461027595013,
+        "text": "Your ideas, your dreams, and the things you want to learn deserve your belief."
+      },
+      {
+        "start": 28.093422218475386,
+        "end": 32.875623390297996,
+        "text": "I wish I could deliver this encouragement in person."
+      },
+      {
+        "start": 33.044435332823255,
+        "end": 40.58063252533691,
+        "text": "I would hand you the letter, bring your favourite drink, and probably spend far too long looking at you."
+      },
+      {
+        "start": 40.74944446786216,
+        "end": 46.81783186844863,
+        "text": "Honestly, this is why I need a plan before becoming your study partner."
+      },
+      {
+        "start": 46.98664381097388,
+        "end": 55.52606626192334,
+        "text": "But I would also remind you to trust yourself, open that book, and give your brilliant mind a chance to work."
+      },
+      {
+        "start": 55.6948782044486,
+        "end": 66.13785627396857,
+        "text": "May Allah bless your preparation, grant you beneficial knowledge, help you understand what you study, and bring clarity when you need it."
+      },
+      {
+        "start": 66.30666821649382,
+        "end": 71.05108766784649,
+        "text": "May He open good doors for you and grant you success."
+      },
+      {
+        "start": 71.21989961037175,
+        "end": 72.54306369321256,
+        "text": "Ameen."
+      },
+      {
+        "start": 72.71187563573783,
+        "end": 77.79070350656909,
+        "text": "My love, I am cheering for the future you are working towards."
+      },
+      {
+        "start": 77.95951544909435,
+        "end": 82.31807903181786,
+        "text": "Let this be the voice you carry back into your day."
+      },
+      {
+        "start": 82.48689097434311,
+        "end": 85.56087606108873,
+        "text": "Hind, my love, you can do this."
+      },
+      {
+        "start": 85.72968800361399,
+        "end": 93.202429992732,
+        "text": "Even when something feels difficult, you can learn it, work through it, and find your way forward."
+      },
+      {
+        "start": 93.37124193525725,
+        "end": 95.3905543144165,
+        "text": "Trust your mind."
+      },
+      {
+        "start": 95.55936625694176,
+        "end": 98.77397772080886,
+        "text": "Give yourself credit for what you know."
+      },
+      {
+        "start": 98.94278966333411,
+        "end": 104.75549730930419,
+        "text": "Walk into that exam knowing you have something to bring to every page."
+      },
+      {
+        "start": 104.92430925182946,
+        "end": 111.39382598251166,
+        "text": "I believe in you, beautiful, and I want you to hear your own voice saying it too."
+      },
+      {
+        "start": 111.56263792503691,
+        "end": 113.50477913047033,
+        "text": "I am capable."
+      },
+      {
+        "start": 113.67359107299558,
+        "end": 115.92441697333233,
+        "text": "I can figure this out."
+      },
+      {
+        "start": 116.0932289158576,
+        "end": 117.83118805747475,
+        "text": "I can do this."
+      }
+    ],
+    "timeline": [
+      {
+        "title": "This letter is yours",
+        "visual": "garden",
+        "start": 0.0
+      },
+      {
+        "title": "Your favourite cheering section",
+        "visual": "lights",
+        "start": 28.093422218475386
+      },
+      {
+        "title": "A prayer for your next chapter",
+        "visual": "garden",
+        "start": 55.6948782044486
+      },
+      {
+        "title": "I can do this",
+        "visual": "garden",
+        "start": 82.48689097434311
+      }
+    ]
+  }
+}

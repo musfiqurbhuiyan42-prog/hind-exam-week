@@ -1,0 +1,35 @@
+{
+  "mirror": {
+    "title": "The Mirror Room",
+    "choice": "When I doubt myself",
+    "promise": "See the capable woman I see.",
+    "sections": [
+      {"title":"Look at yourself with belief","visual":"mirror","text":"Hind, my love, come a little closer. This room is here to remind you of the capable woman looking back at you. You have a mind that can learn, ask questions, make connections, and discover a way forward. Give that mind your trust today. You can understand the difficult things, one clear step at a time."},
+      {"title":"Give yourself credit","visual":"books","text":"Think of something that once confused you and now makes sense. Remember the moment it clicked. That ability belongs to you. When a new topic feels unfamiliar, you can bring the same curiosity to it. Read the question carefully. Find the part you recognise. Start there, and let one useful thought lead you to the next."},
+      {"title":"Your next answer begins here","visual":"study","text":"You can practise the skills you need. You can ask for an explanation. You can try another example until the idea becomes clearer. Every time you do that, you give yourself another reason to believe. And yes, beautiful, I am absolutely cheering for the clever girl with the pen. Consider this your very personal cheering section."},
+      {"title":"I am capable","visual":"mirror","text":"Now imagine opening your exam paper. Your shoulders settle. You read with care, notice what you know, and begin. A difficult question is something you can work through. Take this belief with you to your desk, into tomorrow, and into every new thing you learn. Say it in your own voice, my love. I am capable. I can figure this out. I can do this."}
+    ]
+  },
+  "rain": {
+    "title": "The Rainy Window",
+    "choice": "When it feels like too much",
+    "promise": "Find your focus, one step at a time.",
+    "sections": [
+      {"title":"Come in, my love","visual":"rain","text":"Hind, my love, come sit beside this window for a moment. Let the rain move outside while you gather your thoughts inside. You can bring your attention back to one thing. Take an easy breath, let your shoulders settle, and look at the page in front of you. You have a place to begin, right here."},
+      {"title":"Choose one small beginning","visual":"books","text":"Choose one topic you want to understand a little better. Pick a single example, read it carefully, and write down the first thing you know. Then try the next step. You are allowed to work at the pace that helps you think clearly. A whole chapter becomes more approachable when you give yourself one useful task at a time."},
+      {"title":"Let your confidence grow","visual":"study","text":"If you get stuck, change the approach. Find a worked example, ask someone to explain, or return after a short break. You have choices, and you can use them. Notice each piece that becomes clearer. Let yourself feel that little moment of progress. That is you learning, my love. That is your effort turning into something you can use."},
+      {"title":"You can take the next step","visual":"rain","text":"And before you ask, yes, I would absolutely bring you tea and then distract you by telling you how beautiful you are. I would try to behave. Mostly. For now, carry my encouragement back to your next question. May Allah grant you clear understanding, steady focus, and success in your studies. You can begin. You can learn. You can keep finding your way. I can figure this out. I can do this."}
+    ]
+  },
+  "garden": {
+    "title": "The Letter Garden",
+    "choice": "I need you",
+    "promise": "A little love to carry into your day.",
+    "sections": [
+      {"title":"This letter is yours","visual":"garden","text":"My beautiful Hind, this little garden has a letter waiting just for you. Imagine me beside you as you open it, smiling before you have even read the first line. I love you. And I love getting to remind you how much possibility there is in you. Your ideas, your dreams, and the things you want to learn deserve your belief."},
+      {"title":"Your favourite cheering section","visual":"lights","text":"I wish I could deliver this encouragement in person. I would hand you the letter, bring your favourite drink, and probably spend far too long looking at you. Honestly, this is why I need a plan before becoming your study partner. But I would also remind you to trust yourself, open that book, and give your brilliant mind a chance to work."},
+      {"title":"A prayer for your next chapter","visual":"garden","text":"May Allah bless your preparation, grant you beneficial knowledge, help you understand what you study, and bring clarity when you need it. May He open good doors for you and grant you success. Ameen. My love, I am cheering for the future you are working towards. Let this be the voice you carry back into your day."},
+      {"title":"I can do this","visual":"garden","text":"Hind, my love, you can do this. Even when something feels difficult, you can learn it, work through it, and find your way forward. Trust your mind. Give yourself credit for what you know. Walk into that exam knowing you have something to bring to every page. I believe in you, beautiful, and I want you to hear your own voice saying it too. I am capable. I can figure this out. I can do this."}
+    ]
+  }
+}
